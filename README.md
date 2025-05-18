@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-출처: https://msyu1207.tistory.com/entry/git-profile-꾸미기-feat-badge-github-readme-stats [로띠 로그:티스토리]
 [![my GitHub stats](https://github-readme-stats.vercel.app/api?username=사KevRiver)&hide=stars,contribs&count_private=true&show_icons=true&&theme=radical
 ](https://github.com/KevRiver/github-readme-stats)
